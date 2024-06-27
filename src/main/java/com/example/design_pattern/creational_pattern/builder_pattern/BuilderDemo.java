@@ -6,7 +6,7 @@ import com.example.design_pattern.creational_pattern.builder_pattern.director.Di
 import com.example.design_pattern.creational_pattern.builder_pattern.product.Car;
 import com.example.design_pattern.creational_pattern.builder_pattern.product.Manual;
 
-public class Demo {
+public class BuilderDemo {
     public static void main(String[] args) {
         Director director = new Director();
         CarBuilder builder = new CarBuilder();

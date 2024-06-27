@@ -4,7 +4,7 @@ import com.example.design_pattern.creational_pattern.factory_method.factory.Dial
 import com.example.design_pattern.creational_pattern.factory_method.factory.HtmlDialog;
 import com.example.design_pattern.creational_pattern.factory_method.factory.WindowsDialog;
 
-public class Demo {
+public class FactoryMethodDemo {
     private static Dialog htmlDialog;
     private static Dialog windowsDialog;
 

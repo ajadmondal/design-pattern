@@ -4,7 +4,7 @@ import com.example.design_pattern.creational_pattern.abstract_factory.factory.GU
 import com.example.design_pattern.creational_pattern.abstract_factory.factory.MacFactory;
 import com.example.design_pattern.creational_pattern.abstract_factory.factory.WindowsFactory;
 
-public class Demo {
+public class AbstractFactoryDemo {
     public static void main(String[] args) {
         System.out.println("**********************************");
         System.out.println("Exploring Mac Factory");
